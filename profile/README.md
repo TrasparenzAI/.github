@@ -18,9 +18,8 @@ TrasparenzAI è una piattaforma open-source sviluppata dal Consiglio Nazionale d
 •	Prevenzione della corruzione: Consente un controllo diffuso e sistematico, riducendo i rischi di fenomeni corruttivi.
 
 **Approfondimenti e Documentazione**
-•	Sito ufficiale: https://www.trasparenzai.it 
-•	Documentazione tecnica: https://trasparenzai.github.io 
-•	Presentazioni e contesto progettuale: https://conf25.garr.it/it/speaker/ivan-duca 
+•	Sito prototipo di studio: https://www.trasparenzai.it 
+•	Documentazione: https://trasparenzai.github.io 
 
 In sintesi, TrasparenzAI rappresenta la risposta tecnologica per una pubblica amministrazione più trasparente, efficiente e aperta al controllo dei cittadini, attraverso una piattaforma digitale unica e interoperabile per la consultazione dei dati pubblici.
 
